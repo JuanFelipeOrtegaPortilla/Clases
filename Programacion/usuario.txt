@@ -1,0 +1,6 @@
+1|Ana López|ana@example.com|0|23
+2|Carlos Ruiz|carlos@example.com|1|0
+3|Luisa Méndez|luisa@example.com|2|5
+4|Pedro Sánchez|pedro@example.com|0|0
+5|María González|maria@example.com|1|10
+6|Javier Torres|javier@example.com|3|0

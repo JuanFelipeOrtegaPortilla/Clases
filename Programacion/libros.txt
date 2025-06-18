@@ -1,0 +1,8 @@
+1|Cien años de soledad|García Márquez|Realismo mágico|1
+2|El principito|Antoine de Saint-Exupéry|Fábula|1
+3|1984|George Orwell|Ciencia ficción|0
+4|Don Quijote de la Mancha|Miguel de Cervantes|Novela clásica|1
+5|Orgullo y prejuicio|Jane Austen|Romance|1
+6|Fahrenheit 451|Ray Bradbury|Distopía|0
+7|Crónica de una muerte anunciada|García Márquez|Realismo mágico|1
+8|El Hobbit|J.R.R. Tolkien|Fantasía|0
